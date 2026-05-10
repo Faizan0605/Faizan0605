@@ -1,54 +1,18 @@
-# Hi there, I'm Faizan Hashmi 👋 
+# 💫 About Me:
+I am a Full-Stack Developer and Electronics & Communication Engineering student at NIT Srinagar, specializing in building scalable applications using **MongoDB**, **Express.js**, **React**, and **Node.js**, alongside modern tools like **Next.js** and **PostgreSQL**. With professional experience as a Software Development Engineer intern, I enjoy architecting complex systems such as multi-tenant CRMs and session booking platforms. I am a rapid learner dedicated to staying at the forefront of technology, constantly integrating new tools and services like **Appwrite**, **Supabase**, **Docker**, and **AI-driven APIs** into my workflow. I am currently focused on bridging the gap between technical development and digital entrepreneurship by creating resources to help aspiring developers navigate the full-stack landscape.
 
-### Full-Stack Developer | ECE @ NIT Srinagar
 
-I am a Full-Stack Developer specializing in the **MERN stack**, passionate about building scalable applications and solving complex architectural challenges. Currently bridging the gap between Electronics and Software Engineering.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizanh0605) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizefaizan0605@gmail.com) 
 
----
-
-### 🚀 Technical Arsenal
-
-*   **Languages:** JavaScript (ES6+), TypeScript, SQL, C++
-*   **Frontend:** React, Next.js, Tailwind CSS, Three.js
-*   **Backend:** Node.js, Express.js, PostgreSQL, MongoDB
-*   **DevOps & Tools:** AWS, Drizzle ORM, Docker, Git, WebStorm
-
----
-
-### 📊 GitHub Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan0605&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan0605&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Faizan0605&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Faizan0605&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Faizan0605&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Faizan0605&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔭 Current Focus
-- **Micro-CRM:** Architecting a multi-tenant system with automated workflows and PostgreSQL.
-- **EdTech:** Launching a digital preparation resource for aspiring Full-Stack developers.
-- **Cloud:** Deepening expertise in **Salesforce Administration** and AWS infrastructure.
-
-### 👯 Collaboration Interests
-- Open-source MERN stack contributions.
-- Projects involving **Three.js** or creative 3D web experiences.
-- Scalable SaaS architecture.
-
-### 💬 Ask Me About
-- Designing scalable **Node.js** backends.
-- High-volume fitness routines (Ask me about my 100+ push-up streak! 🏃‍♂️).
-- Elden Ring lore and boss strategies.
-
-### 📫 How to Reach Me
-- **Portfolio:** [faize-port.vercel.app](https://faize-port.vercel.app)
-- **LinkedIn:** [linkedin.com/in/your-username]
-- **Email:** [your.email@example.com]
-
----
-
-### ⚡ Fun Fact
-When I'm not debugging, I'm likely running 2km or analyzing the world-building of *One Piece* and *Dragon Ball*.
-
----
-<p align="center">
-  <img src="https://grid-stats.com/api/Faizan0605?gradient=0366d6,58a6ff" alt="Contribution Graph" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
